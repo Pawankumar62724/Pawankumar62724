@@ -10,8 +10,8 @@
 ### 🚀 About Me
 
 - 🎓 Final-year Computer Science graduate
-- 💻 Hands-on experience in **PHP, Laravel, and full-stack web development**
-- 🛠️ Also skilled in **C#, ASP.NET Core MVC, Entity Framework Core, React.js, and Python**
+- 🛠️ Skilled in **C#, ASP.NET Core MVC, Entity Framework Core, React.js, and Python**
+- 💻 Also have hands-on experience in **PHP, Laravel, and full-stack web development**
 - 🎨 Focused on building **responsive, user-friendly web applications**
 - 🌱 Currently exploring **NLP** and **AI-powered applications**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pawan-kumar-4b1290265)
