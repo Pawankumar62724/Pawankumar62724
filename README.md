@@ -61,12 +61,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawankumar62724&show_icons=true&theme=tokyonight&count_private=true" alt="Pawan's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawankumar62724&theme=tokyonight" alt="Pawan's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawankumar62724&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pawan's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankumar62724&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankumar62724&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com/?user=Pawankumar62724&theme=tokyonight&hide_border=true" alt="Pawan's GitHub streak" width="60%"/>
 </p>
 
 ---
